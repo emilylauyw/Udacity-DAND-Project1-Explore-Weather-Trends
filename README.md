@@ -1,4 +1,4 @@
-# Udacity_DAND_Project1-Explore_Weather_Trends
+# Udacity DAND Project1 - Explore Weather Trends
 Udacity Data Analyst Nanodegree Project 01 - Exploring Weather Trends using MS Excel and SQL
 
 ## Description
