@@ -21,6 +21,6 @@ Analyze local and global temperature data and compare the temperature trends whe
    - Use line chart to make observation about the similarities and differences
 
 ### Files
-- "SQL-queries.sql" contains the SQL query used for this project with step by step explanations of what I did.
-- "Extracted-Singapore-&-Global-Avg-Temp-Data.xlsx" is the result from running the SQL query above with moving average calculated.
-- "Project1-Explore-Weather-Trends.pdf" is the final report.
+- ```SQL-queries.sql``` contains the SQL query used for this project with step by step explanations of what I did.
+- ```Extracted-Singapore-&-Global-Avg-Temp-Data.xlsx``` is the result from running the SQL query above with moving average calculated.
+- ```Project1-Explore-Weather-Trends.pdf``` is the final report.
